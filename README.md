@@ -7,6 +7,6 @@
 ###Independent Project
 ####Scientific Abstracts Database
 
-DOCKER BUILD
+DOCKER FLASK BUILD
 - To create a relational database (building upon Python pandas DataFrames and sqlite packages)
 - Utilize Flask to launch web application of database for querying abstract database
